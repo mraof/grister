@@ -20,5 +20,4 @@ for i in ${@:$OFFSET} ; do
 		GRIST="$GRIST""GristType.$i, "
 	fi
 done
-#echo "$GRIST ${
 echo "GristRegistry.addGristConversion(new ItemStack(Block.$ITEM$ITEMSTACK), $METADATA, new GristSet(new GristType[] {${GRIST%??}}, new int[] {${COST%??}}));">>$OUTPUT
