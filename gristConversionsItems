@@ -1,0 +1,224 @@
+shovelIron 4 Rust 2 Build
+pickaxeIron 6 Rust 2 Build
+axeIron 6 Rust 2 Build
+flintAndSteel 16 Rust 1 Shale
+appleRed 2 Amber 2 Shale
+bow 3 Chalk 3 Build
+arrow 1 Shale 4 Build
+0 coal 16 Tar
+1 coal 12 Tar 4 Amber
+diamond 16 Diamond
+ingotIron 16 Rust
+ingotGold 16 Gold
+swordIron 7 Rust 1 Build
+swordWood 8 Build
+shovelWood 6 Build
+pickaxeWood 8 Build
+axeWood 8 Build
+swordStone 1 Build 7 Shale
+shovelStone 2 Build 4 Shale
+pickaxeStone 2 Build 6 Shale
+axeStone 2 Build 6 Shale
+swordDiamond 7 Diamond 1 Build
+shovelDiamond 4 Diamond 2 Build
+pickaxeDiamond 6 Diamond 2 Build
+axeDiamond 6 Diamond 2 Build
+stick 1 Build
+bowl 3 Build
+mushroom Stew 2 Iodine 2 Ruby 3 Build
+swordGold 7 Gold 1 Build
+shovelGold 4 Gold 2 Build
+pickaxeGold 6 Gold 2 Build
+axeGold 6 Gold 2 Build
+silk 1 Chalk
+feather 1 Chalk
+gunpowder 2 Sulfur 2 Chalk
+hoeWooden 6 Build
+hoeStone 4 Shale 2 Build
+hoeIron 4 Rust 2 Build
+hoeGold 4 Gold 2 Build
+hoeDiamond 4 Diamond 2 Build
+seeds 1 Amber 1 Iodine
+wheat 8 Iodine
+bread 10 Iodine 2 Amber
+helmetLeather 10 Iodine 10 Chalk
+plateLeather 16 Iodine 16 Chalk
+legsLeather 14 Iodine 14 Chalk
+bootsLeather 8 Iodine 8 Chalk
+helmetChain 10 Sulfur 10 Tar
+plateChain 16 Sulfur 16 Tar
+legsChain 14 Sulfur 14 Tar
+bootsChain 8 Sulfur 8 Tar
+helmetIron 80 Iron
+plateIron 128 Iron
+legsIron 112 Iron
+bootsIron 64 Iron
+helmetDiamond 80 Diamond
+plateDiamond 128 Diamond
+legsDiamond 112 Diamond
+bootsDiamond 64 Diamond
+helmetGold 80 Gold
+plateGold 128 Gold
+legsGold 112 Gold
+bootsGold 64 Gold
+flint 1 Shale
+porkRaw 10 Iodine
+porkCooked 10 Iodine 4 Tar
+painting 4 Chalk 8 Build
+appleGold 128 Gold 2 Amber 2 Shale
+sign 4 Build
+doorWood 12 Build
+bucketEmpty 48 Rust
+bucketWater 48 Rust 16 Cobalt
+bucketLava 48 Rust 16 Tar
+minecartEmpty 80 Rust
+saddle 16 Rust 4 Iodine 4 Chalk
+doorIron 96 Rust
+redstone 4 Garnet
+snowball 1 Cobalt
+boat 10 Build
+leather 2 Iodine 2 Chalk
+bucketMilk 48 Rust 16 Chalk
+brick 4 Shale 1 Tar
+clay 4 Shale
+reed 4 Amber 2 Iodine
+paper 4 Chalk
+book 14 Chalk 2 Iodine
+slimeBall 8 Caulk
+minecartCrate 80 Rust 8 Build
+minecartPowered 80 Rust 4 Build 4 Shale
+egg 2 Build 2 Caulk 2 Amber
+compass 64 Rust 4 Garnet
+fishingRod 4 Build 2 Chalk
+pokcetSundial 64 Gold 4 Garnet
+glowstone 4 Tar 4 Chalk
+fishRaw 4 Caulk 4 Amber 2 Cobalt
+fishCooked 4 Caulk 4 Amber 2 Cobalt 1 Tar
+0 dyePowder 4 Tar
+1 dyePowder 4 Garnet
+2 dyePowder 3 Amber 1 Iodine
+3 dyePowder 3 Iodine 1 Amber
+4 dyePowder 4 Amethyst
+5 dyePowder 2 Amethyst 2 Garnet
+6 dyePowder 2 Amethyst 2 Amber 1 Iodine
+7 dyePowder 1 Tar 3 Chalk
+8 dyePowder 3 Tar 1 Chalk
+9 dyePowder 2 Garnet 2 Chalk
+10 dyePowder 3 Amber
+11 dyePowder 4 Amber
+12 dyePowder 2 Amethyst 2 Chalk
+13 dyePowder 1 Amethyst 3 Garnet
+14 dyePowder 2 Garnet 2 Amber
+15 dyePowder 4 Chalk
+bone 12 Chalk
+sugar 4 Iodine
+cake 4 Amber 4 Chalk 4 Build 4 Ruby
+bed 12 Chalk 6 Build
+redstoneRepeater 6 Build 2 Garnet
+cookie 6 Amber 6 Iodine
+shears 32 Rust
+melonSlice 1 Amber 1 Caulk
+pumpkinSeeds 1 Chalk
+melonSeeds 1 Amber
+beefRaw 12 Iodine
+beefCooked 12 Iodine 1 Tar
+chicken Raw 10 Iodine
+chickenCooked 10 Iodine 1 Tar
+rottenFlesh 4 Cobalt 2 Iodine
+enderPearl 8 Uranium 2 Diamond
+blazeRod 16 Tar 2 Uranium
+ghastTear 2 Cobalt 2 Chalk
+goldNugget 2 Gold
+netherStalkSeeds 4 Iodine 4 Tar
+0 potion 1 Quartz 16 Cobalt
+1 potion 1 Quartz 18 Cobalt 2 Chalk
+2 potion 1 Quartz 16 Cobalt 4 Iodine
+3 potion 1 Quartz 16 Cobalt 8 Tar 1 Uranium 8 Caulk
+4 potion 1 Quartz 16 Cobalt 4 Amber 2 Iodine
+5 potion 1 Quartz 16 Cobalt 16 Gold 1 Amber 1 Chalk
+6 potion 1 Quartz 16 Cobalt 3 Amber 1 Chalk 16 Gold
+8 potion 1 Quartz 16 Cobalt 6 Amber 4 Iodine 2 Tar
+9 potion 1 Quartz 8 Tar 1 Uranium
+10 potion 1 Quartz 16 Cobalt 8 Iodine 6 Amber 2 Tar
+12 potion 1 Quartz 16 Cobalt 16 Gold 7 Amber 4 Iodine 2 Tar 1 Chalk
+14 potion 1 Quartz 16 Cobalt 9 Amber 1 Chalk 16 Gold 4 Iodine 2 Tar
+16 potion 1 Quartz 16 Cobalt 4 Iodine 4 Tar
+32 potion 1 Quartz 16 Cobalt
+glassBottle 1 Quartz
+spiderEye 4 Amber 2 Iodine
+fermentedSpiderEye 6 Amber 4 Iodine 2 Tar
+blazePowder 8 Tar 1 Uranium
+magmaCream 8 Tar 1 Uranium 8 Caulk
+brewingStand 16 Tar 2 Uranium 3 Build
+cauldron 112 Rust
+eyeOfEnder 8 Tar 9 Uranium 2 Diamond
+speckledMelon 16 Gold 1 Amber 1 Chalk
+61 monsterPlacer 2 Build 2 Caulk 2 Amber 16 Tar 2 Uranium
+59 monsterPlacer Egg 2 Build 2 Caulk 2 Amber 4 Amber 2 Iodine
+50 monsterPlacer 2 Build 2 Caulk 2 Amber 2 Sulfur 2 Chalk
+58 monsterPlacer 2 Build 2 Caulk 2 Amber 8 Uranium 2 Diamond
+56 monsterPlacer 2 Build 2 Caulk 2 Amber 2 Cobalt 2 Chalk
+62 monsterPlacer 2 Build 2 Caulk 2 Amber 8 Tar 1 Uranium 8 Caulk
+60 monsterPlacer 2 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+51 monsterPlacer 2 Build 2 Caulk 2 Amber 12 Chalk 62 Uranium 48 Tar 16 Diamond
+55 monsterPlacer 2 Build 10 Caulk 2 Amber
+59 monsterPlacer 2 Build 2 Caulk 2 Amber 1 Chalk
+66 monsterPlacer 2 Build 2 Caulk 2 Amber 1 Quartz 16 Cobalt
+54 monsterPlacer 2 Build 2 Caulk 2 Amber 4 Cobalt 2 Iodine
+57 monsterPlacer 2 Build 2 Caulk 2 Amber 2 Gold
+65 monsterPlacer 3 Build 3 Caulk 3 Amber
+93 monsterPlacer 2 Build 2 Caulk 2 Amber 1 Chalk
+92 monsterPlacer 2 Build 2 Caulk 2 Amber 12 Iodine
+100 monsterPlacer 2 Build 2 Caulk 8 Amber 6 Iodine
+96 monsterPlacer 2 Build 2 Caulk 2 Amber 2 Iodine 2 Ruby
+98 monsterPlacer 2 Build 2 Caulk 2 Amber 4 Caulk 4 Amber 2 Cobalt
+90 monsterPlacer 2 Build 2 Caulk 2 Amber 10 Iodine
+91 monsterPlacer 2 Build 2 Caulk 2 Amber 4 Chalk
+94 monsterPlacer 2 Build 2 Caulk 2 Amber 4 Tar
+95 monsterPlacer 2 Build 2 Caulk 2 Amber 12 Chalk
+120 monsterPlacer 2 Build 2 Caulk 2 Amber 8 Ruby 8 Diamond
+expBottle 8 Uranium 1 Quartz 4 Diamond 4 Ruby
+fireballCharge 8 Tar 1 Uranium 16 Tar 2 Sulfur 2 Chalk
+writeableBook 16 Chalk 2 Iodine
+emerald 8 Ruby 8 Diamond
+itemFrame 2 Chalk 10 Build
+flowerPot 10 Shale
+carrot 3 Amber 1 Chalk
+potato 4 Amber
+bakedPotato 4 Amber 1 Tar
+poisonousPotato 4 Amber 2 Iodine
+emptyMap 32 Rust 10 Chalk 2 Garnet
+goldenCarrot 3 Amber 1 Chalk 16 Gold
+0 skull 12 Chalk
+1 skull 62 Uranium 48 Tar 16 Diamond
+2 skull 4 Cobalt 2 Iodine
+3 skull 4 Aritfact
+4 skull 2 Sulfur 2 Chalk
+carrotOnAStick 3 Amber 1 Chalk 2 Build
+netherStar 256 Uranium 64 Tar 64 Diamond
+pumpkinPie 8 Amber 4 Caulk 2 Build 4 Iodine
+firework 2 Sulfur 4 Chalk
+fireworkCharge 2 Sulfur 2 Chalk
+enchantedBook 8 Uranium 1 Quartz 4 Diamond 4 Ruby 16 Chalk 2 Iodine
+comparator 3 Garnet 6 Build 4 Quartz 1 Marble
+netherrackBrick 1 Build 2 Tar
+netherQuartz 4 Quartz 1 Marble
+minecartTNT 80 Rust 8 Sulfur 8 Chalk 16 Shale
+minecartHopper 80 Rust 6 Rust 2 Garnet 2 Build
+field_111215_ce 80 Rust
+field_111216_cf 80 Gold
+field_111213_cg 80 Diamond
+field_111214_ch 8 Chalk 2 Caulk
+field_111212_ci 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+record13 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordCat 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordBlocks 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordChirp 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordFar 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordMall 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordMellohi 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordStal 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordStrad 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordWard 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+record11 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+recordWait 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk

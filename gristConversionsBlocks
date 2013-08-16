@@ -1,0 +1,100 @@
+plantYellow 2 Amber 1 Iodine
+plantRed 2 Garnet 1 Iodine
+mushroomBrown 2 Iodine
+mushroomRed 2 Ruby
+blockGold 144 Gold
+blockIron 144 Rust
+0 stoneSingleSlab 1 Build
+1 stoneSingleSlab 2 Shale
+3 stoneSingleSlab 1 Build
+4 stoneSingleSlab 8 Shale 2 Tar
+5 stoneSingleSlab 6 Build 2 Shale
+6 stoneSingleSlab 2 Build 4 Tar
+7 stoneSingleSlab 8 Quartz 2 Marble
+woodSingleSlab 1 Build
+brick 16 Shale 4 Tar
+bookShelf 16 Chalk 8 Build
+tnt 8 Sulfur 8 Chalk 16 Shale
+cobblestoneMossy 1 Iodine 1 Build
+obsidian 1 Cobalt 1 Tar 6 Build
+torchWood 1 Tar
+stairsWoodOak 1 Artifact 1 Build
+stairsCobblestone 1 Artifact 1 Build
+stairsBrick 1 Artifact 1 Build
+stairsStoneBrick 1 Artifact 1 Build
+stairsNetherBrick 1 Artifact 1 Build
+stairsSandStone 1 Artifact 1 Build
+stairsWoodSpruce 1 Artifact 1 Build
+stairsWoodBirch 1 Artifact 1 Build
+stairsWoodJungle 1 Artifact 1 Build
+stairsNetherQuartz 1 Artifact 1 Build
+chest 8 Build
+oreDiamond 16 Diamond 4 Build
+blockDiamond 144 Diamond
+workbench 4 Build 4 Shale
+furnaceIdle 4 Tar 8 Build
+ladder 7 Build
+rail 32 Rust 4 Build
+lever 2 Build 2 Garnet
+pressurePlateStone 3 Build 2 Garnet
+pressurePlatePlanks 3 Build 2 Garnet
+torchRedstoneIdle 2 Garnet
+stoneButton 2 Build 3 Garnet
+snow 4 Cobalt
+ice 8 Cobalt
+blockSnow 4 Cobalt 2 Build
+cactus 4 Amber 1 Iodine
+blockClay 16 Shale
+jukebox 4 Build 1 Iodine 1 Diamond
+fence 6 Build
+pumpkin 6 Amber 2 Caulk
+netherrack 1 Build 1 Tar
+slowSand 1 Tar 1 Shale
+glowStone 16 Tar 16 Chalk
+pumpkinLantern 6 Amber 2 Chalk 2 Tar 1 Build
+trapdoor 6 Build 2 Amber
+0 stoneBrick 12 Build 4 Shale
+1 stoneBrick 10 Build 6 Shale
+2 stoneBrick 10 Build 2 Shale 1 Iodine
+3 stoneBrick 12 Build 4 Shale
+fenceIron 2 Rust 1 Caulk
+thinGlass 2 Quartz 1 Caulk
+melon 8 Amber 8 Chalk 2 Build
+vine 8 Build 1 Amber
+fenceGate 12 Build
+mycelium 2 Iodine 2 Ruby 2 Build
+waterlily 4 Amber 1 Iodine
+netherBrick 4 Build 8 Tar
+netherFence 12 Build 8 Tar
+enchantmentTable 4 Shale 4 Chalk 4 Build 4 Tar
+whiteStone 1 Shale 1 Chalk
+dragonEgg 64 Uranium 64 Tar 1 Zillium
+redstoneLampIdle 12 Tar 12 Chalk 12 Garnet
+oreEmerald 8 Ruby 8 Diamond 4 Build
+enderChest 32 Build 32 Uranium 16 Tar
+tripWireSource 4 Build 1 Garnet
+blockEmerald 72 Ruby 72 Diamond
+beacon 256 Uranium 128 Tar 128 Diamond
+0 cobblestoneWall 8 Build 2 Shale
+1 cobblestoneWall 8 Build 1 Shale 1 Iodine
+woodenButton 2 Build 3 Garnet
+anvil 16 Rust 4 Build
+chestTrapped 8 Build 1 Garnet
+pressurePlateGold 3 Gold 2 Garnet
+pressurePlateIron 3 Rust 2 Garnet
+daylightSensor 4 Garnet 4 Amber
+blockRedstone 36 Garnet
+oreNetherQuartz 8 Quartz 2 Marble 2 Build
+hopperBlock 6 Rust 2 Garnet 2 Build
+blockNetherQuartz 16 Quartz 4 Marble
+railActivator 16 Sulfur 16 Chalk 4 Build
+dropper 4 Build 4 Garnet 1 Chalk
+field_111039_cA 12 Shale 8 Marble
+field_111038_cB 72 Iodine
+field_111031_cC 2 Chalk
+field_111032_cD 16 Shale 4 Marble
+field_111034_cE 144 Tar
+0 silverfish 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+1 silverfish 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+2 silverfish 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
+3 silverfish 3 Build 2 Caulk 2 Amber 2 Chalk 2 Caulk
