@@ -1,0 +1,3 @@
+CLASS="$1"
+
+while read line; do ./grister $CLASS $line; done < "$2"

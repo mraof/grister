@@ -4,12 +4,13 @@ GRIST=""
 COST=""
 ITEMSTACK=""
 METADATA="false"
-OFFSET=2
-ITEM=$1
-if [[ "$1" =~ ^[0-9]+$ ]] ; then
-	ITEM="$2"
-	ITEMSTACK=", 1, $1"
-	OFFSET=3
+OFFSET=3
+CLASS=$1
+ITEM=$2
+if [[ "$2" =~ ^[0-9]+$ ]] ; then
+	ITEM="$3"
+	ITEMSTACK=", 1, $2"
+	OFFSET=4
 	METADATA="true"
 fi
 
@@ -20,4 +21,4 @@ for i in ${@:$OFFSET} ; do
 		GRIST="$GRIST""GristType.$i, "
 	fi
 done
-echo "GristRegistry.addGristConversion(new ItemStack(Block.$ITEM$ITEMSTACK), $METADATA, new GristSet(new GristType[] {${GRIST%??}}, new int[] {${COST%??}}));">>$OUTPUT
+echo "GristRegistry.addGristConversion(new ItemStack($CLASS.$ITEM$ITEMSTACK), $METADATA, new GristSet(new GristType[] {${GRIST%??}}, new int[] {${COST%??}}));">>$OUTPUT
